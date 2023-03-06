@@ -1,4 +1,4 @@
-# How To Ask Questions [*Here*](https://gitee.com/mark4test/special-block-to-ask/issues)
+# How To Ask Questions [*Here*](https://gitee.com/mark4test/special-block-to-ask/issues/new)
 
 > **在特别板块中提问的艺术**
 
@@ -12,7 +12,7 @@
 * [注意事项](#注意事项)
 
 ### 提问之前
-在群里提问之前首先我们应该做好功课，看自己是否完成以下步骤，否则你的提问将一塌糊涂，大概率得不到想要 的答案。
+在这里提问之前，我们应该做好功课，看自己是否完成以下步骤，否则你的提问将一塌糊涂，大概率得不到想要的答案。
 1. 尝试自己解决
 2. 不能自己解决应该准备的哪些
 
