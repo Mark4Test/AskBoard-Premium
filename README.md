@@ -102,5 +102,12 @@
 如果觉得问题记不住，收藏一下这个图吧：
 ![img](http://imgs.taoweng.site/blog/typecho/qustion.jpg)
 
-====
+---
+
 本文大部分内容转载自 [taoweng](http://taoweng.site/index.php/author/1/)，其原文采用 [知识共享署名4.0](https://creativecommons.org/licenses/by/4.0/) 国际许可协议进行许可
+
+---
+
+[更多细节](https://gitee.com/mark4test/special-block-to-ask/blob/master/How-To-Ask-Questions-The-Smart-Way/Reference.md)
+
+###### 注：不属于上述转载内容
