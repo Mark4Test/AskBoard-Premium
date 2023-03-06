@@ -1,7 +1,7 @@
-# Features for Devs
+# Features for [Devs](https://gitee.com/language/en)
 > 如果你不是开发者，请切换至中文Readme页面。
 ---
-[_**点击这里**_](https://gitee.com/language/zh-CN)切换至中文页面
+[_**点击这里**_](https://gitee.com/language/zh-CN)切换至中文页面，并重新进入仓库主页。
 
 |[Issue List](https://gitee.com/mark4test/special-block-to-ask/issues?state=all)|
 |-|
