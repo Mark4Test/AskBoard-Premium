@@ -109,5 +109,5 @@
 
 ---
 
-[更多细节1(可能无法访问)](https://gitee.com/mark4test/special-block-to-ask/blob/master/How-To-Ask-Questions-The-Smart-Way/Reference.md) [更多细节1(原站点)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+[更多细节1(可能无法访问)](https://gitee.com/mark4test/special-block-to-ask/blob/master/How-To-Ask-Questions-The-Smart-Way/Reference.md) **|** [更多细节1(原站点)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 ###### 注：不属于上述转载内容
