@@ -1,5 +1,7 @@
 # Features for Devs
 > 如果你不是开发者，请切换至中文Readme页面。
 ---
-|[Issue](https://gitee.com/mark4test/special-block-to-ask/issues?state=all)|
+[_**点击这里**_](https://gitee.com/language/zh-CN)切换至中文页面
+
+|[Issue List](https://gitee.com/mark4test/special-block-to-ask/issues?state=all)|
 |-|
