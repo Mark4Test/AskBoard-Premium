@@ -85,7 +85,7 @@
 
 这种问题也是，很明显通过搜索引擎就能搞定的，要是下次还有这种问题，你就把这个图发给它。
 
-![img](http://wx3.sinaimg.cn/large/006ARE9vgy1fwntelg0mlj30b40b4gm1.jpg)
+![img](https://gitee.com/mark4test/special-block-to-ask/blob/master/How-To-Ask-Questions-The-Smart-Way/ask1.jpeg)
 
 
 #### 建议的问法：
@@ -100,14 +100,10 @@
 没有一定的自学能力，问到问题就伸手的不适合玩这个。
 群唯一的作用就是：扯淡、交流、分享，以上几条为前提。
 如果觉得问题记不住，收藏一下这个图吧：
+
 ![img](http://imgs.taoweng.site/blog/typecho/qustion.jpg)
-
 ---
-
 本文大部分内容转载自 [taoweng](http://taoweng.site/index.php/author/1/)，其原文采用 [知识共享署名4.0](https://creativecommons.org/licenses/by/4.0/) 国际许可协议进行许可
-
 ---
-
 [更多细节](https://gitee.com/mark4test/special-block-to-ask/blob/master/How-To-Ask-Questions-The-Smart-Way/Reference.md)
-
 ###### 注：不属于上述转载内容
