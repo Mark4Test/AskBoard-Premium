@@ -85,7 +85,7 @@
 
 这种问题也是，很明显通过搜索引擎就能搞定的，要是下次还有这种问题，你就把这个图发给它。
 
-![img](https://gitee.com/mark4test/special-block-to-ask/blob/master/How-To-Ask-Questions-The-Smart-Way/ask1.jpeg)
+![img](https://gitee.com/mark4test/special-block-to-ask/raw/master/How-To-Ask-Questions-The-Smart-Way/ask1.jpeg)
 
 
 #### 建议的问法：
