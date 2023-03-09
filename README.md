@@ -8,7 +8,7 @@
 
 ### 提交issue之前请仔细阅读[**wiki**](https://gitee.com/mark4test/special-block-to-ask/wikis/)
 
-## 手机版提交issue前，请点击[**这个链接**](https://gitee.com/mark4test/special-block-to-ask?skip_mobile=true)
+## 手机版提交issue前，请点击[**这个链接**](https://gitee.com/mark4test/special-block-to-ask/issues?state=all&skip_mobile=true)
 
 > 如果没有那么急，我真的***不推荐***在手机上提交issue。**浏览**信息倒是还能**凑合**。
 
