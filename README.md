@@ -10,7 +10,7 @@
 
 ## 手机版提交issue前，请点击[**这个链接**](https://gitee.com/mark4test/special-block-to-ask?skip_mobile=true)
 
-> 如果没有那么急，我真的_**不推荐**_在手机上提交issue。**浏览**信息倒是还能**凑合**。
+> 如果没有那么急，我真的***不推荐***在手机上提交issue。**浏览**信息倒是还能**凑合**。
 
 ## 如果你是这个仓库的管理者，你或许需要[**点击这个**](https://gitee.com/language/en)
 ---
