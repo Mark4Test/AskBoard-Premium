@@ -1,5 +1,5 @@
 name: '🔨 Coding issue'
-about: 'Ask things about code.'
+description: 'Ask things about code.'
 title: "[Coding]："
 body:
   - type: markdown
