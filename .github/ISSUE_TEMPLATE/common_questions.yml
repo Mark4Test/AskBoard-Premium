@@ -1,0 +1,31 @@
+name: '❔Common question'
+description: 'Submit a common question.'
+title: "[Common]："
+body:
+  - type: checkboxes
+    id: common-check
+    attributes:
+      label: 我确认过以下问题：
+      description: 请如实选择。
+      options:
+        - label: 我 *百度/Google过* 这个问题，且**没有**得到结果。
+        - label: 我认为我 *没有能力* 解决这个问题。
+          required: true
+        - label: 我认为我 *表述清楚* 了我的问题。
+          required: true
+  - type: input
+    id: id-identify
+    attributes:
+      label: '我的身份是：'
+      description: Be aware of information leak on public repository!
+      placeholder: 用代号表明你的身份。
+    validations:
+      required: true
+  - type: textarea
+    id: question-description
+    attributes:
+      label: 我的问题是：
+      description: 阐述你的问题，字数不限。
+      placeholder: 在此处输入你的问题。
+    validations:
+      required: true
