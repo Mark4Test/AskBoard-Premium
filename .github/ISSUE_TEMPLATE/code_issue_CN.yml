@@ -31,6 +31,6 @@ body:
       label: 我的问题是：
       description: 阐述你的问题，字数不限。
       render: markdown
-      placehoder: 在此处输入你的问题。
+      placeholder: 在此处输入你的问题。
     validations:
       required: true
