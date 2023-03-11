@@ -1,0 +1,41 @@
+---
+name: '🔨 Coding issue'
+about: 'Ask things about code.'
+title: "[Coding]："
+labels: ''
+assignees: ''
+body:
+- type: markdown
+  attributes:
+    value: "### 提交issue前请确认以下内容"
+- type: checkboxes
+  id: coder-check
+  attributes:
+    label: 我确认过以下问题：
+    description: 请如实选择。
+    options:
+      - label: 我*仔细*阅读过**Gitee**的**wiki**。
+      - label: 我**百度/Google过**这个问题，且**没有**得到结果。
+      - label: 我查阅过与问题相关内容的**手册/文档**，且**没有**得到结果。
+      - label: 我检查过Gitee上的**完整issue列表**，并确认**没有人**曾经提出过**相同的问题**。
+      - label: 我检查过***Github***上的issue列表。
+      - label: 我认为我表述清楚了我的问题。
+- type: input
+  id: id-identify
+  attributes:
+    label: '我的身份是：'
+    description: Be aware of information leak on public repository!
+    placeholder: 用代号表明你的身份。
+  validations:
+    required: true
+- type: textarea
+  id: question-description
+  attributes:
+    label: 我的问题是：
+    description: 阐述你的问题，字数不限。
+    render: markdown
+    placehoder: 在此处输入你的问题。
+  validations:
+    required: true
+
+---
