@@ -1,3 +1,4 @@
+---
 name: '🔨 Coding issue'
 about: 'Ask things about code.'
 title: "[Coding]："
@@ -34,3 +35,4 @@ body:
       placehoder: 在此处输入你的问题。
     validations:
       required: true
+---
