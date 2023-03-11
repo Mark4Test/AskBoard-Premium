@@ -1,8 +1,6 @@
 name: '❔Common question'
 description: 'Submit a common question.'
 title: "[Common]："
-labels: ''
-assignees: ''
 body:
   - type: checkboxes
     id: common-check
